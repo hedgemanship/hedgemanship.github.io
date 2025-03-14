@@ -16,5 +16,13 @@
       <description>&lt;h1 id=&#34;introduction-to-hedgemanship&#34;&gt;Introduction to hedgemanship&lt;/h1&gt;
 &lt;p&gt;Hello world! Thought I&amp;rsquo;d start this new blog of with an introduction of who I am and what I will post about here.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>About</title>
+      <link>https://hedgemanship.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedgemanship.github.io/about/</guid>
+      <description>&lt;p&gt;Welcome to my blog! I’m a software engineer with a keen interest in finance, trading, and personal development. I approach both my work and my growth with a mindset of continual learning, always refining and improving my skills.&lt;/p&gt;
+&lt;p&gt;One idea that really resonates with me is &lt;em&gt;hedgemanship&lt;/em&gt;—a term I’ve shamelessly borrowed from Conrad Thomas’ lesser-known 1970s book with the iconic title, &lt;em&gt;Hedgemanship: How to make money in bull markets, bear markets and chicken markets while confounding professional money managers and attracting a better class of women&lt;/em&gt;. For me, it’s not just about managing risk—it’s about taking a craftsman’s approach to trading, striving for precision, and continious improvement of strategies and processes over time.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
